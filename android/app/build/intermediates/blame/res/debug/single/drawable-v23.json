@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp3\\htdocs\\react-native\\react-native-loginExample\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\xampp3\\htdocs\\react-native\\react-native-loginExample\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\xampp3\\htdocs\\react-native\\myapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\xampp3\\htdocs\\react-native\\myapp\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp3\\htdocs\\react-native\\react-native-loginExample\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\xampp3\\htdocs\\react-native\\react-native-loginExample\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\xampp3\\htdocs\\react-native\\myapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\xampp3\\htdocs\\react-native\\myapp\\android\\app\\build\\intermediates\\exploded-aar\\com.facebook.react\\react-native\\0.48.4\\res\\xml\\preferences.xml"
+    }
+]

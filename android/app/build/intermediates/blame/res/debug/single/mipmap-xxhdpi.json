@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\xampp3\\htdocs\\react-native\\myapp\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\xampp3\\htdocs\\react-native\\myapp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xampp3\\htdocs\\react-native\\react-native-loginExample\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\xampp3\\htdocs\\react-native\\react-native-loginExample\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
